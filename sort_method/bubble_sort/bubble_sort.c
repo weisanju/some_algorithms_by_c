@@ -3,7 +3,6 @@
 #include<time.h>
 //normal version
 void generate_arr(int *p, int len){
-	//设置随机数种子
 	srand((unsigned int)time(NULL));
 	for (int i = 0; i < len; i++)
 		*p++= rand()%1000;
