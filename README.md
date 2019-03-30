@@ -2,3 +2,4 @@
 write down some instersting algorithms by c
 
 1.Make a pact for yourself, write at least one algorithm every day
+2.I am Coming
