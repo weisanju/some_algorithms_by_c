@@ -2,7 +2,5 @@
 write down some instersting algorithms by c
 
 1.Make a pact for yourself, write at least one algorithm every day
-2.I am Coming
 
-明明没有push成功啊
-提交成功
+
