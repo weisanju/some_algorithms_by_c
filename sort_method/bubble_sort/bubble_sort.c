@@ -26,13 +26,13 @@ void sort(int *p, int len){
 	}
 
 }
-int main1(){
+int main(){
 	int arr[10];
 	int len = 10;
 	generate_arr(arr, len);
 	print_arr(arr, len);
+	putchar('\n');
 	sort(arr, len);
-	puts("\n");
 	print_arr(arr, len);
-	getchar();
+	putchar('\n');
 }
