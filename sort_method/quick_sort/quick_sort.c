@@ -40,7 +40,7 @@ void quick_sort(int *p, int low, int high){
 }
 
 int main(){
-	int arr[10];
+	int arr[10];	
 	int len = 10;
 	generate_arr(arr, len);
 	print_arr(arr, len);
